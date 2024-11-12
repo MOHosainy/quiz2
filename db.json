@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "2d59",
+      "username": "",
+      "email": "sss",
+      "password": "123"
+    },
+    {
+      "id": "ac62",
+      "username": "sssss",
+      "email": "www@s.com",
+      "password": "123"
+    },
+    {
+      "id": "0136",
+      "username": "test",
+      "email": "test@dd.com",
+      "password": "123"
+    }
+  ],
+  "doctor": [
+    {
+        "username": "admin",
+        "email": "admin@admin.com",
+         "password": "123",
+         "id": "1"
+
+      }
+  ],
+  "login": []
+}
